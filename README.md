@@ -36,8 +36,6 @@ GmailPOM/
 │── .github/workflows/ # CI/CD pipeline
 │── README.md # Project documentation
 
-```
-
 
 ---
 
