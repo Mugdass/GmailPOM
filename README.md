@@ -63,17 +63,17 @@ GmailPOM/
 
   Run with Maven
 
-    ```
+```
       mvn clean test
 
-
+```
 
   Run Specific TestNG Suite
 
-    ```
+```
       mvn clean test -DsuiteXmlFile=testng.xml
 
-
+```
 ---
 
 
@@ -89,9 +89,9 @@ GmailPOM/
 
   To generate Allure Report:
 
-    ```
+```
         allure serve target/allure-results
-
+```
     
 
 ---
