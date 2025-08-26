@@ -54,7 +54,7 @@ GmailPOM/
     And clicks on the login button
     Then User should be redirected to the Gmail inbox page
 
-
+```
 ---
 
 
@@ -63,14 +63,14 @@ GmailPOM/
 
   Run with Maven
 
-    ```bash
+    ```
       mvn clean test
 
 
 
   Run Specific TestNG Suite
 
-    ```bash
+    ```
       mvn clean test -DsuiteXmlFile=testng.xml
 
 
@@ -89,7 +89,7 @@ GmailPOM/
 
   To generate Allure Report:
 
-    ```bash
+    ```
         allure serve target/allure-results
 
 
