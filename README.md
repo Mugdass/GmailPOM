@@ -44,8 +44,9 @@ GmailPOM/
 
 ## 🧪 Sample Feature (BDD)  
 
-```gherkin
-Feature: Gmail Login Functionality
+```
+  gherkin
+  Feature: Gmail Login Functionality
 
   Scenario: Successful Login with Valid Credentials
     Given User is on Gmail login page
