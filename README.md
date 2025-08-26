@@ -42,9 +42,6 @@ GmailPOM/
 
 
 
-
----
-
 ## 🧪 Sample Feature (BDD)  
 
 ```gherkin
