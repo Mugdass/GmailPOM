@@ -1,0 +1,28 @@
+# Maven
+target/
+!src/main/resources/
+!src/test/resources/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs / Reports
+reports/
+test-output/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# WebDriver executables (don’t commit drivers)
+driver/*.exe
+driver/*.dll
+driver/*.so
+driver/*.dylib
